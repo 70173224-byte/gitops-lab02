@@ -1,1 +1,1 @@
-# Gitops lAB 02
+# Gitops Lab 02
