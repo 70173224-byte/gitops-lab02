@@ -1,1 +1,1 @@
-# Gitops Lab 02
+# GitOps Lab 02
